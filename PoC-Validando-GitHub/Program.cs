@@ -20,6 +20,8 @@ namespace PoC_Validando_GitHub
                 new Service1()
             };
             ServiceBase.Run(ServicesToRun);
+
+            throw new Exception("Unexpected error");
         }
     }
 }
