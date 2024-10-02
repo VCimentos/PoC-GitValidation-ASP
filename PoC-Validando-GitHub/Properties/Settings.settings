@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PoC_Validando_GitHub.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="fakeService" Type="System.String" Scope="User">
+      <Value Profile="(Default)">user 1234</Value>
+    </Setting>
+    <Setting Name="fakePass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">kawabunga!.@@</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
